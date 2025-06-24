@@ -1,0 +1,13 @@
+# jobs:
+#   deploy:
+#     runs-on: ubuntu-latest
+#     needs: test # Só executa se os testes passarem
+
+#     steps:
+#     - uses: actions/checkout@v4
+
+#     - name: Notify Render
+#       uses: render-actions/deploy@v1
+#       with:
+#         service-id: seu-service-id-render
+#         api-key: ${{ secrets.RENDER_API_KEY }}
