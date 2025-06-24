@@ -18,7 +18,7 @@
     ✅ Métodos HTTP: GET, POST, PUT, DELETE <br>
     ✅ JSON (formato de dados universal) <br>
 <hr>
-- Aula 2: Node.js Básico <br>
+  -  Aula 2: Node.js Básico <br>
   2.1 Módulos no Node.js <br>
     ✅ CommonJS (sistema de módulos tradicional do Node) <br>
     ✅ module.exports para exportar <br>
