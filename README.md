@@ -1,6 +1,6 @@
 # ESTUDOS NODEJS
 
-- Aula 1: Pré-requisitos (JavaScript e Fundamentos) <br>
+* Aula 1: Pré-requisitos (JavaScript e Fundamentos) <br>
   1.1 Variáveis e Tipos de Dados <br>
     ✅ let, const e var (escopo e diferenças) <br>
     ✅ Tipos primitivos: string, number, boolean, null, undefined <br>
@@ -17,8 +17,8 @@
     ✅ O que é uma API REST? <br>
     ✅ Métodos HTTP: GET, POST, PUT, DELETE <br>
     ✅ JSON (formato de dados universal) <br>
-<hr>
-  -  Aula 2: Node.js Básico <br>
+
+* Aula 2: Node.js Básico <br>
   2.1 Módulos no Node.js <br>
     ✅ CommonJS (sistema de módulos tradicional do Node) <br>
     ✅ module.exports para exportar <br>
@@ -29,8 +29,8 @@
     ✅ Inicializar um projeto <br>
     ✅ Instalar um pacote (ex: cowsay) <br>
     ✅ Usar o pacote <br>
-<hr>
-- Aula 3: Express.js - O Framework Web para Node.js <br>
+
+* Aula 3: Express.js - O Framework Web para Node.js <br>
   3.1 Instalando o Express <br>
     ✅ Crie um arquivo server.js <br>
     ✅ Estrutura básica de rotas <br>
@@ -39,15 +39,15 @@
     ✅ O que são? <br>
     ✅ Middleware global <br>
     ✅ Body Parser (para ler JSON no POST) <br>
-<hr>
-- Aula 4: Banco de Dados + Node.js <br>
+
+* Aula 4: Banco de Dados + Node.js <br>
   4.1 MongoDB (NoSQL) + Mongoose <br>
     ✅ Passo 1: Instalação <br>
     ✅ Passo 2: Conexão com o MongoDB Criando um arquivo db.js <br>
     ✅ Passo 3: Criando um Model (Schema) <br>
     ✅ Passo 4: Atualizando a Rota POST (server.js) <br>
-<hr>
-- Aula 5: Autenticação com JWT + Middlewares de Segurança <br>
+
+* Aula 5: Autenticação com JWT + Middlewares de Segurança <br>
     ✅ Criar sistema de cadastro/login de usuários <br>
     ✅ Gerar tokens JWT para autenticação <br>
     ✅ Proteger rotas com middlewares <br>
